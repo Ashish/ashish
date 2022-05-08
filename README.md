@@ -11,15 +11,15 @@
 <img align="right" alt="gif" width="400" src="https://thumbs.gfycat.com/DecimalMetallicAphid-size_restricted.gif">
 
 
-- 🔭 I’m currently working on **Social Media clone**
+- 🔭 I’m currently working on **MuleSoft**
 
-- 🌱 I’m currently learning **MERN Stack, Azure, AWS**
+- 🌱 I’m currently learning **Project Management, Azure, AWS**
 
-- 👯 I’m looking to collaborate on **Frontend/Backend development**
+- 👯 I’m looking to collaborate on **MuleSoft projects**
 
 - 👨‍💻 All of my projects are available at **[https://ashishjha.co.in/projects](https://ashishjha.co.in/projects)**
 
-- 💬 Ask me about **React.js, Node.js**
+- 💬 Ask me about **APIs**
 
 - 📫 How to reach me **https://ashishjha.co.in/contact**
 
