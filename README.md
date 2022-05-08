@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Jha</h1>
 <h3 align="center">A CSE student who loves to spend most of the day, experimenting with HTML, CSS, JavaScript (and its endless list of frameworks) and a chef by night 😋.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishjha&label=Profile%20views&color=0e75b6&style=flat" alt="ashish" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish&label=Profile%20views&color=0e75b6&style=flat" alt="ashish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish" alt="ashish" /></a> </p>
 
