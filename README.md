@@ -41,6 +41,8 @@
     <td align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish&show_icons=true&locale=en&layout=compact&theme=radical" alt="ashish" />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Neel2904">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish&show_icons=true&locale=en&theme=radical" alt="ashish"/>
